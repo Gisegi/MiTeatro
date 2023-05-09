@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Gisela",
+    "lastname": "Farace",
+    "email": "gisela@email.com",
+    "password": "1234",
+    "image": "avatar_dracula"
+  },
+  {
+    "name": "Juan",
+    "lastname": "Perez",
+    "email": "juan@email.com",
+    "password": "1234",
+    "image": "avatar_kinky"
+  },
+  {
+    "name": "Natalia",
+    "lastname": "Gonzales",
+    "email": "natalia@email.com",
+    "password": "1234",
+    "image": "avatar_phantom"
+  }
+]

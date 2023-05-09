@@ -1,0 +1,26 @@
+<resources>
+    <!-- Estilo de la aplicación -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Cambiar el color de fondo de la barra de acción -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <!-- Cambiar el color de texto de la barra de acción -->
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <!-- Cambiar el color de fondo de la ventana -->
+        <item name="android:windowBackground">@color/backgroundColor</item>
+    </style>
+
+    <!-- Estilo de la actividad del SplashScreen -->
+    <style name="SplashTheme" parent="AppTheme">
+        <!-- Cambiar la transición entre SplashScreen y la siguiente pantalla -->
+        <item name="android:windowAnimationStyle">@style/SplashAnimation</item>
+    </style>
+
+    <!-- Estilo de la animación del SplashScreen -->
+    <style name="SplashAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+</resources>
+
+

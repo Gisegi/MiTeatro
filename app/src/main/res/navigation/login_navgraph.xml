@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/login_navgraph"
+    app:startDestination="@id/userLogin">
+    <fragment
+        android:id="@+id/userLogin"
+        android:name="com.utn.miteatro.fragments.UserLogin"
+        android:label="fragment_user_login"
+        tools:layout="@layout/fragment_user_login" >
+        <action
+            android:id="@+id/action_userLogin_to_editNewUser2"
+            app:destination="@id/editNewUser2" />
+    </fragment>
+    <fragment
+        android:id="@+id/editNewUser2"
+        android:name="com.utn.miteatro.fragments.EditNewUser"
+        android:label="fragment_edit_new_user"
+        tools:layout="@layout/fragment_edit_new_user" />
+</navigation>

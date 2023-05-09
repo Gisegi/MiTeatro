@@ -1,0 +1,110 @@
+[
+  {
+    "name": "La Flauta Mágica",
+    "theater": "Teatro Colón",
+    "address" : "Cerrito 628, CABA",
+    "category": "Ópera",
+    "image": "flautamagica",
+    "web": "https://entradasba.buenosaires.gob.ar/AdvancedSearch?cBuscar=flauta",
+    "about": "\"La Flauta Mágica\" es una de las óperas más famosas de Mozart, y una de las más queridas por el público. Compuesta en 1791, la ópera es un cuento de hadas mágico, lleno de misterios, simbolismos y referencias masónicas. La trama se desarrolla alrededor de la búsqueda del príncipe Tamino y la princesa Pamina por la sabiduría y la felicidad.\n\nLa música de \"La Flauta Mágica\" es famosa por su belleza y complejidad. Desde los primeros acordes de la obertura hasta el emotivo final, la ópera es una mezcla de emociones, desde lo cómico y lo dramático hasta lo espiritual y lo mágico. La partitura incluye arias famosas como \"La Reina de la Noche\", \"Papageno, Papagena\", y la famosa \"Marcha de los Sacerdotes\".\n\nAdemás de su música, la ópera es conocida por su mezcla de comedia, drama y misticismo. La trama tiene elementos de cuento de hadas y leyendas, y está llena de simbolismos e imágenes místicas. La ópera también es un tributo a la fraternidad masónica, con numerosas referencias y símbolos masónicos a lo largo de la obra.\n\nEn resumen, \"La Flauta Mágica\" es una ópera que ofrece una experiencia única para el público, con una mezcla de emociones, música y simbolismo. Es una obra maestra que ha dejado una huella indeleble en la historia de la ópera y sigue siendo un tesoro para los amantes de la música clásica."
+  },
+  {
+    "name": "Anna Bolena",
+    "theater": "Teatro Colón",
+    "address" : "Cerrito 628, CABA",
+    "category": "Ópera",
+    "image": "annabolena",
+    "web": "https://entradasba.buenosaires.gob.ar/AdvancedSearch?cBuscar=anna%20bolena",
+    "about": "\"Anna Bolena\" es una ópera italiana en dos actos compuesta por Gaetano Donizetti en 1830. La trama de la ópera se desarrolla en el siglo XVI, durante el reinado de Enrique VIII de Inglaterra, y se centra en la dramática historia de Ana Bolena, su segunda esposa. Ana es acusada de traición y adulterio por sus rivales políticos y debe enfrentarse a su destino final en una escena conmovedora y emocionante.\n\nLa ópera cuenta con un reparto vocal exigente, con algunos de los papeles más desafiantes del repertorio lírico. La música es emotiva y expresiva, con arias deslumbrantes que expresan la intensidad de las emociones de los personajes. El libreto, escrito por Felice Romani, es considerado una obra maestra por su habilidad para retratar las complejas relaciones y motivaciones de los personajes.\n\n\"Anna Bolena\" es una de las óperas más famosas de Donizetti y una de las más representadas en la actualidad. La obra se ha ganado el reconocimiento de críticos y público por igual por su música emocional y su dramática representación de la vida de Ana Bolena."
+  },
+  {
+    "name": "La Carrera del Libertino",
+    "theater": "Teatro Colón",
+    "address" : "Cerrito 628, CABA",
+    "category": "Ópera",
+    "image": "carreralibertino",
+    "web": "https://entradasba.buenosaires.gob.ar/AdvancedSearch?cBuscar=carrera%20del%20libertino",
+    "about": "\"La Carrera del Libertino\" es una ópera cómica en un acto compuesta por Igor Stravinsky en 1952. La trama cuenta la historia de un libertino francés del siglo XVIII llamado Don Giovanni, quien se une a una carrera de caballos para intentar seducir a una mujer casada. La ópera está llena de humor y enredos, y la música es famosa por su complejidad rítmica y su estilo neoclásico."
+  },
+  {
+    "name": "Il Trovatore",
+    "theater": "Teatro Colón",
+    "address" : "Cerrito 628, CABA",
+    "category": "Ópera",
+    "image": "trovatore",
+    "web": "https://entradasba.buenosaires.gob.ar/AdvancedSearch?cBuscar=trovatore",
+    "about": "\"Il Trovatore\" es una ópera en cuatro actos compuesta por Giuseppe Verdi en 1853. La trama se desarrolla en España y cuenta la historia de amor y venganza entre Leonora, Manrico, el trovador, y el Conde de Luna. La ópera es famosa por su música apasionada y dramática, especialmente en arias como \"Di quella pira\" y \"Stride la vampa\". También es conocida por su trama llena de giros inesperados y emociones intensas."
+  },
+  {
+    "name": "Il Turco in Italia",
+    "theater": "Teatro Colón",
+    "address" : "Cerrito 628, CABA",
+    "category": "Ópera",
+    "image": "turcoitalia",
+    "web": "https://entradasba.buenosaires.gob.ar/AdvancedSearch?cBuscar=Il%20turco",
+    "about": "\"Il Turco in Italia\" es una ópera cómica en dos actos compuesta por Gioachino Rossini en 1814. La trama se desarrolla en Nápoles y cuenta la historia de un poeta llamado Prosdocimo que intenta escribir una obra sobre el amor y la seducción. En el proceso, se involucra en las aventuras románticas de una cantante llamada Fiorilla y el turco Selim, quien llega a Italia en busca de una esposa. La ópera es famosa por su música animada y alegre, y su habilidad para combinar la comedia y el drama en una trama emocionante y entretenida."
+  },
+  {
+    "name": "La Viuda Alegre",
+    "theater": "Teatro Colón",
+    "address" : "Cerrito 628, CABA",
+    "category": "Ópera",
+    "image": "viudaalegre",
+    "web": "https://entradasba.buenosaires.gob.ar/AdvancedSearch?cBuscar=viuda%20alegre",
+    "about": "\"La Viuda Alegre\" es una opereta en tres actos compuesta por Franz Lehár en 1905. La trama se desarrolla en París y cuenta la historia de la rica viuda Hanna Glawari, quien se convierte en el objeto del deseo de varios pretendientes interesados en su fortuna. La ópera es conocida por su música ligera y melodiosa, incluyendo arias famosas como \"Vilja\" y \"Merry Widow Waltz\". También es famosa por su trama llena de humor y romance, con personajes extravagantes y situaciones cómicas."
+  },
+  {
+    "name": "Madama Butterfly",
+    "theater": "Teatro Colón",
+    "address" : "Cerrito 628, CABA",
+    "category": "Ópera",
+    "image": "madamabutterfly",
+    "web": "https://entradasba.buenosaires.gob.ar/AdvancedSearch?cBuscar=madama",
+    "about": "\"Madama Butterfly\" es una ópera en tres actos compuesta por Giacomo Puccini en 1904. La trama se desarrolla en Nagasaki, Japón, y cuenta la historia de una joven geisha llamada Cio-Cio-San (también conocida como Butterfly) que se casa con el oficial naval estadounidense Pinkerton. La ópera es famosa por su música emotiva, especialmente en arias como \"Un bel dì vedremo\" y \"Humming Chorus\". También es conocida por su conmovedora trama de amor y sacrificio, y por la trágica historia de Butterfly, quien es abandonada por Pinkerton y debe luchar por su honor y dignidad."
+  },
+  {
+    "name": "Piaf",
+    "theater": "Teatro Liceo",
+    "address" : "Av. Rivadavia 1499, CABA",
+    "category": "Musical",
+    "image": "piaf",
+    "web": "https://www.plateanet.com/obra/23915?obra=PIAF&paso=inicio",
+    "about": "\"Piaf\" es un musical basado en la vida de la famosa cantante francesa Edith Piaf. La obra cuenta la historia de su vida, desde su infancia en las calles de París hasta su ascenso a la fama como una de las cantantes más queridas de Francia. A través de su música y sus letras, la obra muestra los altibajos de la vida de Piaf, incluyendo su lucha contra la pobreza, su relación tumultuosa con sus amantes y amigos, y su lucha contra la enfermedad. El musical es conocido por su música emocionante, que incluye algunas de las canciones más famosas de Piaf como \"Non, Je Ne Regrette Rien\" y \"La Vie en Rose\"."
+  },
+  {
+    "name": "Querido Evan",
+    "theater": "Teatro Metropolitan",
+    "address" : "Av. Corrientes 1343, CABA",
+    "category": "Musical",
+    "image": "queridoevan",
+    "web": "https://www.plateanet.com/obra/25857?obra=QUERIDO-EVAN&paso=inicio",
+    "about": "\"Querido Evan\" es un musical de Broadway que cuenta la historia de un adolescente llamado Evan Hansen, que lucha por encontrar su lugar en el mundo y conectar con los demás. Después de la muerte de un compañero de clase, Evan se involucra en una mentira que se sale de control, y debe enfrentar las consecuencias de sus acciones mientras intenta descubrir quién es y lo que realmente importa en la vida. La obra es conocida por su música emotiva y poderosa, con canciones como \"Waving Through a Window\" y \"You Will Be Found\". También se destaca por su tema conmovedor sobre la importancia de la amistad, la empatía y la aceptación."
+  },
+  {
+    "name": "Consentimiento",
+    "theater": "Teatro Maipo",
+    "address" : "Esmeralda 443, CABA",
+    "category": "Drama",
+    "image": "consentimiento",
+    "web": "https://www.plateanet.com/obra/25660?obra=CONSENTIMIENTO&paso=inicio",
+    "about": "\"Consentimiento\" es una obra de teatro del dramaturgo británico Nina Raine, estrenada en 2017. La obra aborda temas complejos como la violencia sexual, la masculinidad tóxica y la ética médica a través de la historia de un grupo de amigos y sus parejas que se enfrentan a una acusación de violación. La obra plantea preguntas difíciles sobre el consentimiento y la responsabilidad en las relaciones sexuales, y cuestiona cómo la cultura y las normas sociales pueden perpetuar la violencia y la desigualdad de género. \"Consentimiento\" es conocida por su escritura aguda y provocadora, y ha sido elogiada por su representación compleja y realista de temas controvertidos."
+  },
+  {
+    "name": "Parque Lezama",
+    "theater": "Teatro Politeama",
+    "address" : "Paraná 353, CABA",
+    "category": "Comedia",
+    "image": "parquelezama",
+    "web": "https://www.plateanet.com/obra/25357?obra=PARQUE-LEZAMA&paso=inicio",
+    "about": "\"Parque Lezama\" es una obra de teatro argentina escrita por Rafael Spregelburd, estrenada en 2003. La obra se desarrolla en el parque homónimo de Buenos Aires y sigue la historia de varios personajes que se encuentran allí en un día soleado de domingo. A medida que los personajes interactúan y se relacionan entre sí, se revelan secretos y tensiones ocultas debajo de la superficie aparentemente tranquila del parque. La obra se caracteriza por su humor absurdo y su exploración de temas existenciales, políticos y sociales de la sociedad argentina. \"Parque Lezama\" ha sido aclamada por su escritura innovadora y desafiante, y se ha convertido en una de las obras más reconocidas de la dramaturgia contemporánea argentina."
+  },
+  {
+    "name": "Toc Toc",
+    "theater": "Teatro Multiteatro COMAFI",
+    "address" : "Av. Corrientes 1283, CABA",
+    "category": "Comedia",
+    "image": "toctoc",
+    "web": "https://www.plateanet.com/obra/3370?obra=TOC-TOC_&paso=inicio",
+    "about": "\"Toc Toc\" es una obra de teatro francesa escrita por Laurent Baffie, estrenada en 2005. La obra se desarrolla en la sala de espera de un psiquiatra y sigue a seis personajes que sufren de diferentes trastornos obsesivo-compulsivos y que se encuentran allí para una consulta. A medida que esperan al médico, los personajes comienzan a interactuar y a compartir sus historias, lo que da lugar a situaciones cómicas y a veces absurdas. La obra se caracteriza por su humor ingenioso y su capacidad para abordar temas serios como la ansiedad, la fobia y la salud mental de una manera accesible y entretenida. \"Toc Toc\" se ha convertido en un éxito de taquilla en varios países y ha sido adaptada a diferentes idiomas y formatos, incluyendo una película y una serie de televisión."
+  }
+]

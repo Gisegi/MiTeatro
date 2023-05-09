@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navgraph"
+    app:startDestination="@id/listaObras">
+    <fragment
+        android:id="@+id/listaObras"
+        android:name="com.utn.miteatro.fragments.ListaObras"
+        android:label="fragment_lista_obras"
+        tools:layout="@layout/fragment_lista_obras">
+        <action
+            android:id="@+id/action_listaObras_to_detalleObra"
+            app:destination="@id/detalleObra" />
+        <action
+            android:id="@+id/action_listaObras_to_newEditObra2"
+            app:destination="@id/newEditObra2" />
+    </fragment>
+    <fragment
+        android:id="@+id/detalleObra"
+        android:name="com.utn.miteatro.fragments.DetalleObra"
+        android:label="fragment_detalle_obra"
+        tools:layout="@layout/fragment_detalle_obra">
+        <argument
+            android:name="detalleObra"
+            app:argType="com.utn.miteatro.entities.Obra" />
+        <action
+            android:id="@+id/action_detalleObra_to_newEditObra2"
+            app:destination="@id/newEditObra2" />
+    </fragment>
+    <fragment
+        android:id="@+id/favoritos"
+        android:name="com.utn.miteatro.fragments.Favoritos"
+        android:label="fragment_favoritos"
+        tools:layout="@layout/fragment_favoritos" />
+    <fragment
+        android:id="@+id/userInfo"
+        android:name="com.utn.miteatro.fragments.UserInfo"
+        android:label="fragment_user_info"
+        tools:layout="@layout/fragment_user_info" >
+        <action
+            android:id="@+id/action_userInfo_to_editNewUser"
+            app:destination="@id/editNewUser" />
+    </fragment>
+    <fragment
+        android:id="@+id/editNewUser"
+        android:name="com.utn.miteatro.fragments.EditNewUser"
+        android:label="fragment_edit_new_user"
+        tools:layout="@layout/fragment_edit_new_user" >
+        <argument
+            android:name="userData"
+            app:argType="com.utn.miteatro.entities.User" />
+    </fragment>
+    <fragment
+        android:id="@+id/newEditObra2"
+        android:name="com.utn.miteatro.fragments.NewEditObra"
+        android:label="fragment_new_edit_obra"
+        tools:layout="@layout/fragment_new_edit_obra" >
+        <argument
+            android:name="editObra"
+            app:argType="com.utn.miteatro.entities.Obra" />
+    </fragment>
+</navigation>

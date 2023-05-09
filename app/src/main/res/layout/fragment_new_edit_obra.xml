@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.NewEditObra">
+
+    <EditText
+        android:id="@+id/editNameObra"
+        android:layout_width="345dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="28dp"
+        android:gravity="center"
+        android:hint="Nombre de la obra"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/editImage"
+        android:layout_width="113dp"
+        android:layout_height="102dp"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editNameObra"
+        tools:src="@tools:sample/avatars" />
+
+    <EditText
+        android:id="@+id/editTheater"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:hint="Nombre del teatro"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/editNameObra"
+        app:layout_constraintTop_toBottomOf="@+id/editNameObra" />
+
+    <EditText
+        android:id="@+id/editAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Dirección del teatro"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/editTheater"
+        app:layout_constraintTop_toBottomOf="@+id/editTheater" />
+
+
+    <EditText
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Categoría:"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/editAddress"
+        app:layout_constraintTop_toBottomOf="@+id/editAddress" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="342dp"
+        android:layout_height="327dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editlWeb">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editAbout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="Información de la obra"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <EditText
+        android:id="@+id/editlWeb"
+        android:layout_width="339dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="20dp"
+        android:hint="Página web compra de entradas"
+        android:onClick="openWeb"
+        app:layout_constraintStart_toStartOf="@+id/textView6"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <Button
+        android:id="@+id/btnSaveObra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="GUARDAR"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="@+id/editImage"
+        app:layout_constraintStart_toStartOf="@+id/editImage"
+        app:layout_constraintTop_toBottomOf="@+id/editImage" />
+
+    <Spinner
+        android:id="@+id/spinnerCategory"
+        android:layout_width="202dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="8dp"
+        android:textSize="20sp"
+        android:contextClickable="false"
+        app:layout_constraintBottom_toBottomOf="@+id/textView6"
+        app:layout_constraintStart_toEndOf="@+id/textView6"
+        app:layout_constraintTop_toTopOf="@+id/textView6" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatbtnEditImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:src="@drawable/edit"
+        app:backgroundTint="@color/primaryColor"
+        app:tint="@color/white"
+        app:fabSize="normal"
+        app:layout_constraintBottom_toBottomOf="@+id/editImage"
+        app:layout_constraintEnd_toEndOf="@+id/editImage"
+        app:layout_constraintStart_toStartOf="@+id/editImage"
+        app:layout_constraintTop_toTopOf="@+id/editImage" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
